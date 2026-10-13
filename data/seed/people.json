@@ -31,97 +31,52 @@
         }
       ]
     },
-    "analysis": [
-      {
-        "name": "Adam G.",
-        "identity": "Software Automation Engineer and percussionist",
-        "needs": [
-          "Collaborative environment",
-          "Creative outlet",
-          "Functional reliability in systems",
-          "Continuous learning"
-        ],
-        "hobbies": [
-          "Drumming",
-          "Performing in brass bands",
-          "Drumline",
-          "Software engineering"
-        ],
-        "interests": [
-          "Automation technology",
-          "Machine Learning",
-          "High-performance systems",
-          "Scalable solutions"
-        ],
-        "values": [
-          "Precision",
-          "Creativity",
-          "Functional reliability",
-          "Adaptability",
-          "Collaboration"
-        ],
-        "lifestyle": "Tech-focused professional living in San Francisco who balances complex engineering work with rhythmic creative performance.",
-        "personality": "A highly analytical and structured individual who approaches creative expression with the same precision and discipline used in software engineering.",
-        "seeking": "A partner who appreciates a balance of technical innovation and artistic expression, and thrives in a collaborative, goal-oriented partnership.",
-        "summary": "Adam is a dedicated software engineer who finds his flow state in both code and music. With a background ranging from startups to major tech, he values building solutions that actually work and loves bringing that same problem-solving energy to the drumline.",
-        "evidence": [
-          {
-            "source": "linkedin",
-            "quote": "I'm an accomplished drummer and performer with several drumline and brass band groups"
-          },
-          {
-            "source": "linkedin",
-            "quote": "I thrive in collaborative environments using agile methodologies and enjoy tackling complex engineering challenges"
-          }
-        ]
-      },
-      {
-        "name": "Adam Grant",
-        "identity": "Organizational psychologist, best-selling author, and intellectual thought leader",
-        "needs": [
-          "Intellectual stimulation",
-          "Public discourse",
-          "Connection and community",
-          "Impactful change"
-        ],
-        "hobbies": [
-          "Diving",
-          "Reading",
-          "Parenting",
-          "Book tours"
-        ],
-        "interests": [
-          "Organizational psychology",
-          "Mentoring",
-          "Hidden potential",
-          "Thought-provoking podcasts"
-        ],
-        "values": [
-          "Accountability",
-          "Kindness",
-          "Respectful challenging",
-          "Growth mindset"
-        ],
-        "lifestyle": "Fast-paced academic and public-facing life centered on writing, lecturing, and promoting meaningful social change.",
-        "personality": "A thoughtful, deeply analytical, and socially conscious intellectual who thrives on exploring human potential and fostering community bonds.",
-        "seeking": "A partner who is intellectually curious, values meaningful conversation, and is committed to personal growth and social awareness.",
-        "summary": "Adam is an insightful and deeply compassionate thinker who balances high-level academic research with a genuine desire to connect with people. He is the kind of person who is just as passionate about deep-dive psychological studies as he is about getting back on a diving board to test his limits.",
-        "evidence": [
-          {
-            "source": "instagram",
-            "quote": "Organizational psychologist @whartonschool"
-          },
-          {
-            "source": "instagram",
-            "quote": "I’ve explored connection from all angles"
-          },
-          {
-            "source": "instagram",
-            "quote": "The right place to focus is not on teaching girls and women to avoid harm; it’s on raising boys and men who don’t commit it."
-          }
-        ]
-      }
-    ]
+    "analysis": {
+      "name": "Adam Grant",
+      "identity": "Organizational psychologist, best-selling author, and intellectual thought leader",
+      "needs": [
+        "Intellectual stimulation",
+        "Public discourse",
+        "Connection and community",
+        "Impactful change"
+      ],
+      "hobbies": [
+        "Diving",
+        "Reading",
+        "Parenting",
+        "Book tours"
+      ],
+      "interests": [
+        "Organizational psychology",
+        "Mentoring",
+        "Hidden potential",
+        "Thought-provoking podcasts"
+      ],
+      "values": [
+        "Accountability",
+        "Kindness",
+        "Respectful challenging",
+        "Growth mindset"
+      ],
+      "lifestyle": "Fast-paced academic and public-facing life centered on writing, lecturing, and promoting meaningful social change.",
+      "personality": "A thoughtful, deeply analytical, and socially conscious intellectual who thrives on exploring human potential and fostering community bonds.",
+      "seeking": "A partner who is intellectually curious, values meaningful conversation, and is committed to personal growth and social awareness.",
+      "summary": "Adam is an insightful and deeply compassionate thinker who balances high-level academic research with a genuine desire to connect with people. He is the kind of person who is just as passionate about deep-dive psychological studies as he is about getting back on a diving board to test his limits.",
+      "evidence": [
+        {
+          "source": "instagram",
+          "quote": "Organizational psychologist @whartonschool"
+        },
+        {
+          "source": "instagram",
+          "quote": "I’ve explored connection from all angles"
+        },
+        {
+          "source": "instagram",
+          "quote": "The right place to focus is not on teaching girls and women to avoid harm; it’s on raising boys and men who don’t commit it."
+        }
+      ]
+    }
   },
   {
     "id": "arianna-huffington",
