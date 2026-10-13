@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: agentdate
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: APIFY_TOKEN
+        sync: false
